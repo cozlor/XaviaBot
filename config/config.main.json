@@ -16,14 +16,14 @@
     "LANGUAGE": "en_US",
     "LOG_LEVEL": 1,
     "MODERATORS": [
-        "100008907121641"
+        "100033808762431"
     ],
     "ABSOLUTES": [
-        "100008907121641"
+        "100033808762431"
     ],
-    "NAME": "Xavia",
-    "PREFIX": "x",
-    "timezone": "Asia/Ho_Chi_Minh",
+    "NAME": "Blu B4t",
+    "PREFIX": ".",
+    "timezone": "Asia/Manila",
     "REFRESH": "43200000",
     "MAX_BALANCE_LIMIT": "-1"
 }
